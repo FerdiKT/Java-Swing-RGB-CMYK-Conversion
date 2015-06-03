@@ -1,7 +1,7 @@
 # RGB <-> CMYK Conversion with Java Swing 
 
         
-        #RGB to CMYK
+##RGB to CMYK
         // r,g,b variables get their values from Sliders.
         // 
         double R=r/255,G = g/255,B = b/255;
@@ -13,7 +13,7 @@
         m = (1-G-k) / (1-k);
         y = (1-B-k) / (1-k);
     
-        #CMYK to RGB
+##CMYK to RGB
         // c,m,y,k variables get values from Sliders.
         // in the project file I divide this variables 1000 for sliders. 
         // Because sliders need integer value, CMYK should between 0 and 1.
