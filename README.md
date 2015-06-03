@@ -21,3 +21,4 @@
         g = (int) (255 * (1 - m) * (1 - k));
         b = (int) (255 * (1 - y) * (1 - k));
    
+<img src="https://lh3.googleusercontent.com/ZmaisQTyKToQCGHtq-MiFpg0_a49anEIrKTl2SYC2kh4=w1280-h721-no"/>
